@@ -1,0 +1,7 @@
+C:\Users\Kamol Roy\Desktop\C_Sharp_Features\AbstructClass_And_AbstructMethod\bin\Debug\AbstructClass_And_AbstructMethod.exe.config
+C:\Users\Kamol Roy\Desktop\C_Sharp_Features\AbstructClass_And_AbstructMethod\bin\Debug\AbstructClass_And_AbstructMethod.exe
+C:\Users\Kamol Roy\Desktop\C_Sharp_Features\AbstructClass_And_AbstructMethod\bin\Debug\AbstructClass_And_AbstructMethod.pdb
+C:\Users\Kamol Roy\Desktop\C_Sharp_Features\AbstructClass_And_AbstructMethod\obj\Debug\AbstructClass_And_AbstructMethod.csprojAssemblyReference.cache
+C:\Users\Kamol Roy\Desktop\C_Sharp_Features\AbstructClass_And_AbstructMethod\obj\Debug\AbstructClass_And_AbstructMethod.csproj.CoreCompileInputs.cache
+C:\Users\Kamol Roy\Desktop\C_Sharp_Features\AbstructClass_And_AbstructMethod\obj\Debug\AbstructClass_And_AbstructMethod.exe
+C:\Users\Kamol Roy\Desktop\C_Sharp_Features\AbstructClass_And_AbstructMethod\obj\Debug\AbstructClass_And_AbstructMethod.pdb
